@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ce0a62e31f754004fba9bf4481f3d8ec
+timeCreated: 1482526497
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gasalt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 19b4bdb444081d94c83c1a771742eb24, type: 3}
+  - {fileID: 12800000, guid: 6e6c19b9f0e34c44a82cd462287bb771, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

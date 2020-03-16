@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b8fe64f31c82c87428c60451b970c9b0
+timeCreated: 1484983608
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WoodBox: {instanceID: 0}
+  - Bomb: {instanceID: 0}
+  - BombDefuserBox: {instanceID: 0}
+  - GoldBox: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - AdditionalText: {instanceID: 0}
+  - HighScoreText: {instanceID: 0}
+  - GameOverText: {instanceID: 0}
+  - TotalNumberText: {instanceID: 0}
+  - BombDefuserGraphic: {instanceID: 0}
+  - SpeedAmpText: {instanceID: 0}
+  - Explosion: {instanceID: 0}
+  - Particles: {instanceID: 0}
+  - ChallengeCompleted: {instanceID: 0}
+  - Pause: {fileID: 21300000, guid: 144189d6fc150014d86d7ee449067434, type: 3}
+  - Play: {fileID: 21300000, guid: feebba4a81ecc40419ff52b94a863829, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
